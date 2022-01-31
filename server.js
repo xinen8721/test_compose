@@ -12,7 +12,7 @@ app.use(express.urlencoded({extended: true}))
 app.use(express.json())
 //Set initial visits
 client.set('visits', 0);
-
+console.log('Version 2.0');
 //defining the root endpoint
 app.get('/', (req, res) => {
     client.get('visits', (err, visits) => {
