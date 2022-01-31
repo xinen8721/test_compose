@@ -1,0 +1,6 @@
+Download and install docker and docker-compose https://docs.docker.com/install/. Please also ensure that you are logged into docker.
+Download and install ngrok https://ngrok.com/download*
+Have a way to create a POST request to an API.  Postman, curl, etc.
+Ensure you have a github account set up.
+Let us know what coding language(s) you are most comfortable with so we can prepare accordingly.
+
